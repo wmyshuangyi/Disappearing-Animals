@@ -1,0 +1,81 @@
+html {
+    background-color: #E9E7DA;
+}
+.top-nav {
+    background-color: #373F27;
+    overflow: hidden;
+}
+.top-nav a {
+    float: left;
+    display: block;
+    color: ghostwhite;
+    text-align: center;
+    padding: 17px 23px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Abril Fatface', serif;
+    letter-spacing: 1px;
+}
+#active {
+    background-color:#CDA34F;
+    color: white;
+}
+.top-nav-float {
+    float: right;
+}
+.top-nav .icon {
+    display: none;
+}
+.cus-dropdown-menu {
+    float: left;
+    overflow: hidden;
+}
+.cus-dropdown-menu .drop-button {
+    font-size: 18px; 
+    border: none;
+    outline: none;
+    color: white;
+    padding: 17px 22px;
+    background-color: inherit;
+    font-family: 'Abril Fatface', serif;
+    letter-spacing: 1px;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-size: 17px;
+    letter-spacing: 1.5px;
+}
+.top-nav a:hover, .cus-dropdown-menu:hover .drop-button {
+    background-color: slategrey;
+    color: white;
+}
+.dropdown-content a:hover {
+    background-color: lightgrey;
+    color: black;
+}
+.cus-dropdown-menu:hover .dropdown-content {
+    display: block;
+}
+
+.container h1{
+    color: #373F27;
+    padding: 10px;
+}
+
+.welcome {
+    background:url()
+}
+

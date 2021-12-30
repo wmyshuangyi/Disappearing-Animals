@@ -1,5 +1,5 @@
 ---
-title: Philosophy index
-layout: index
+title: Disappearing Animals
+layout: default
 ---
 
