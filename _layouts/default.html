@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <title>Disappearing Animals</title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
@@ -14,14 +14,14 @@
           <div class="navbar">             
             <nav class="top-nav" id="topnav">
                 <div class="top-nav-float">
-                    <a href=" " id="active">HOME</a >
+                    <a href="{{ site.baseurl }}/" id="active">HOME</a >
                     
                <div class="cus-dropdown-menu">
                         <button class="drop-button">MAMMALIA&nbsp; 
                             <i class="fa fa-caret-down"></i>
                         </button>
                         <div class="dropdown-content">
-                            <a href="#">PRIMATES</a >
+                            <a href="{{ site.baseurl }}/primates">PRIMATES</a >
                             <a href="#">CARNIVORA</a >
                             <a href="#">ARTIODACTYLA</a >
                             <a href="#">CETACEA</a >
@@ -95,4 +95,8 @@
             </div>
 
     </div>  
+
+    <div class="container">
+        {{ content }}
+        </div>
     </body>
