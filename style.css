@@ -16,10 +16,8 @@ html {
     font-family: 'Abril Fatface', serif;
     letter-spacing: 1px;
 }
-#active {
-    background-color:#CDA34F;
-    color: white;
-}
+
+
 .top-nav-float {
     float: right;
 }
@@ -79,3 +77,31 @@ html {
     background:url()
 }
 
+.navigation {
+    margin-top: 100px;
+    background-color: #636B46;
+    width: 100%;
+    margin-bottom: 100px;
+    
+
+}
+
+.homeimg {
+    padding: 30px 0px 30px 80px;
+    
+}
+
+
+.navigation a {
+    margin-bottom: 1px;
+    margin-top: 1px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family:serif;
+    color: white;
+    padding: 30px 100px 30px 180px;
+}
+
+
+
+ 
