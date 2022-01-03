@@ -7,4 +7,5 @@ date: 25 August 2007
 tags: aves, procellariiformes, diomedeidae
 layout: aves
 class: aves
+permalink: /exhibitaves/black-footed_albatross/
 ---
