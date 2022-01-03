@@ -95,10 +95,16 @@
             </div>
 
     </div>  
+    
+    <div id = "content">
+    {% assign licence = site.data.licences | find: "licence", page.licence %}
+        <img src = "{{ page.image-url }}" id = "exhibitave">
+        <p>{{ page.title }} by {{ page.creator }}</p >
+        <p>{{ page.date | date: "%d %B %Y"}}</p >
+        <p><a href="{{ licence.url }}">{{ page.licence }}</a ></p >
+        <p>Tags: {{ page.tags }}</p >
+    </div>
 
-    <div class="container">
-        {{ content }}
-        </div>
 
     
         <footer class="footer">

@@ -103,5 +103,21 @@ html {
 }
 
 
+.aves{
+    align-self: baseline;
+}
+
+#animal_aves {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(4, 300px);
+}
+.grid-cell {
+    align-self: baseline;
+}
+
+
+
 
  
