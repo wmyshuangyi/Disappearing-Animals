@@ -8,6 +8,7 @@ layout:
 tags: Hynobiidae, caudata, amphibia, salamander 
 ---
 ## Descriptions
+
 Characteristics: Amji's salamander (Hynobius amjiensis) is an endemic species of China. The male salamander is 153-166mm in length and the female is about 166mm in length. The head is round and flat, with the head length slightly greater than the head width. The body is stout and slightly flattened. The tail is subrounded and gradually flattened laterally towards the back. The skin on the back of the body is smooth, with a longitudinal furrow from behind the eyes to the neck fold. The limbs are long and slender, with the tips of the fingers and toes overlapping or reaching the palms and metatarsals of each other when the front and hind limbs are attached to each other. The eggs are round, 3.5 mm in diameter (Fei et al., 2012).
 
 Habitat: The Anguilla salamander is particularly demanding in terms of habitat and water requirements; the species lives in the humus layer beneath peat moss in swamps and enters puddles during the spawning season (Guo et al, 2013). Adult salamanders tend to inhabit boggy areas in hilltop gullies, surrounded by lush vegetation and with puddles of various sizes on the ground, 50-100cm deep. It feeds on a variety of insects and small animals such as earthworms (Fei et al., 2012).

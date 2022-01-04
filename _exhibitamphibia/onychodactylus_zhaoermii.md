@@ -4,7 +4,7 @@ creator: Pierre Fidenci
 licence: CC BY-SA 3.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Onychodactylus_fischeri01.jpeg
 date: 2 December 2012
-layout: exhibit
+layout: 
 tags: Hynobiidae, caudata, amphibia, salamander
 ---
 ## Descriptions

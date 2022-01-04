@@ -38,33 +38,13 @@ html {
     font-family: 'Abril Fatface', serif;
     letter-spacing: 1px;
 }
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
-.dropdown-content a {
-    float: none;
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-    font-size: 17px;
-    letter-spacing: 1.5px;
-}
+
 .top-nav a:hover, .cus-dropdown-menu:hover .drop-button {
     background-color: slategrey;
     color: white;
 }
-.dropdown-content a:hover {
-    background-color: lightgrey;
-    color: black;
-}
-.cus-dropdown-menu:hover .dropdown-content {
+
+.cus-dropdown-menu:hover {
     display: block;
 }
 
@@ -107,7 +87,7 @@ html {
     align-self: baseline;
 }
 
-#animal_aves {
+#animal_collection {
     margin: 0 auto;
     display: grid;
     grid-gap: 50px;
