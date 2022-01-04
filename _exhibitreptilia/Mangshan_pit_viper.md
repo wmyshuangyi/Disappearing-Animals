@@ -14,7 +14,7 @@ Habitat: The Mangshan pit viper is found mainly in the subtropical coniferous an
 
 Conservation status: This species is listed as "Endangered" by the IUCN and its number is only about 500 in China.
 
-### Citation
+### Citations
 [1]Lan Hai, & Chen Yuancong. (2008). _The treatment of venomous snakes and snake injuries in China [中国毒蛇与蛇伤救治]_. Shanghai Science and Technology Press.
 
 [2]Zhao Ermi. (1998). _Zoology of China, Reptilia, Vol. 3, Scalariformes, Suborder Serpentes [中国动物志 爬行纲 第三卷 有鳞目 蛇亚目]_. Science Press.

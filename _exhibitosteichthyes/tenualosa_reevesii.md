@@ -4,7 +4,7 @@ creator: Francis Day
 licence: Public Domain
 image-url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Tenualosa_ilisha_Day.png
 date: 1 January 1889
-layout: exhibit
+layout: 
 tags: Clupeidae, cypriniformes, osteichthyes, fish
 ---
 ## Descriptions
