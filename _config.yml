@@ -30,7 +30,8 @@ plugins:
   - jekyll-feed
 collections:
    exhibitaves:
-   output: true
+    output: true
+
     
 
 # Exclude from processing.
