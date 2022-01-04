@@ -30,9 +30,13 @@ plugins:
   - jekyll-feed
 collections:
    exhibitaves:
+    output: true
    exhibitamphibia:
+    output: true
    exhibitinsecta:
+    output: true
    exhibitosteichthyes:
+    output: true
    exhibitreptilia:
     output: true
 
