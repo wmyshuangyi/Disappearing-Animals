@@ -7,7 +7,7 @@ date: 18 January 2013
 tags: aves, bird, sandpiper, charadriiformes, scolopacidae
 layout: aves
 ---
-##Description
+ ## Description
 
 The spoon-billed sandpiper (Calidris pygmaea) is a small wader with a length of 15 cm, mainly breeding in northeast Russia and Southeast Asia. Its beak is black and in a flat shape. In summer, the upper body is black with brownish red plumage. The head, neck, and chest are brownish red. In addition to its chest with black spots, the rest of the lower body is white. In winter, the underside of the feather is greyish brown with black-brown rachis. The forehead and brow lines are white, and eye lines are dark brown. Its lower body is white, and there are tawny longitudinal lines on thoracic side [1].
 

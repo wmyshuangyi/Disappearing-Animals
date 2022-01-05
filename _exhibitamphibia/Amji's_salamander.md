@@ -1,5 +1,5 @@
 ---
-title: Amji's salamander (*Caudata)
+title: Amji's salamander (*)
 creator: Brian Gratwicke
 licence: CC BY 2.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/0/08/Northern_Two-lined_Salamander_Eurycea_bislineata.jpg
@@ -15,7 +15,10 @@ Habitat: The Anguilla salamander is particularly demanding in terms of habitat a
 
 Conservation: It is found only in the swampy area of Longwang Mountain Nature Reserve, Anji, Zhejiang, China, at an altitude of 1300 m, and in the swampy area of Qingliang Peak Nature Reserve, Lin'an, Zhejiang, at an altitude of 1600 m. The harvesting of the Anji salamander and many natural factors such as climate change, increased UV radiation and invasion of exotic species have had an impact on the growth of its population. In addition, some factors within the Anji salamander itself, such as the spread of disease and interspecies fighting, can be a great test for its survival and reproduction.
 
-### Citations
+(* indicates that due to copyright or lack of resources, the image is not of the specific animal but of the family 'Caudata').
+
+
+### Reference List
 [1]Fei, Liang, Ye, Chang-Yuan, & Jiang, Jian-Ping. (2012). _A colour illustrated guide to the amphibians and their distribution in China [中国两栖动物及其分布彩色图鉴]_. Sichuan Science and Technology Press. Sichuan. 
 
 [2]Guo R, Zhang Shuyan, Weng Dongming, Cheng Zhangfeng, Wang Junwang, & Wang Xuchi et al. (2013). Status of Anji salamander population and conservation measures [安吉小鲵种群现状及保护对策]. _Zhejiang Forestry Science and Technology_, 33(5), 4.
