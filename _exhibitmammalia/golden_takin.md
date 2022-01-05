@@ -12,6 +12,10 @@ layout: mammalia
 
 Golden takin (Budorcas taxicolor bedfordi) is bulky with a shoulder height of 100-130 cm; The tail is 15-20cm long; The weight is 250-400 kg. Both males and females have shorter horns, which are twisted and generally about 20 cm long. The head is like a horse, the horn is like a deer, the hoof is like a cow, and the tail is like a donkey. Its size is between cattle and sheep, but it is closer to sheep in teeth, horns, hooves, etc. It is a large herbivore of bovine family. Its two long and stout forelimbs, two short and curved hind legs, and bifurcated cloves all enable Qinling takin to adapt to mountain climbing life.
 
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/KEbZ9GXlspY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 Golden takin gives birth around February every year, with one baby per child. They are alert by nature and sensitive in hearing. Usually, there are as few as a dozen or as many as forty or fifty takins to live together. It is a national first-class protected animal in China.
 
 

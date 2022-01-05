@@ -11,6 +11,9 @@ layout: aves
 
 The Baer's pochard (or Aythya Baeri) is a diving duck with a round body, a large head, and white eyes. The head and neck of the baer's pochard male are black with green sheen. The upper body is black and brown, and the lower back is mixed with brown wormlike spots. Distinct from the chestnut-coloured chest, the abdomen is white, and extends upward to the front of the two flanks, and the lower abdomen is mixed with brown spots. Unlike Aythya Baeri males, the plumage of Aythya Baeri females is with pure brown [1].
 
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/PWha0K2H20g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 The Baer's pochard is a deep-water bird, therefore rarely chirps. In addition, it is omnivorous, mainly feeding on aquatic plants and fish and shrimp shells. During breeding period, male ducks help female ducks choose nesting sites by digging shallow pits on the ground or gathering piles of reeds to build nests. Both sexes participate in the rearing of nestlings. They breed in southeast Russia and northeast China, and migrate in winter to southern China, Vietnam, Japan, and India [1].
 
 Due to wetland destruction and over-harvesting destruction, the number of the species is declining [2]. In March 2015, less than 500 baer's pochards were found in Chengdu Plain, China [3]. On February 16, 2019, a few Baer's pochards were discovered by bird-watchers in a reservoir in Gaomi, Shandong Province, China. [4] 

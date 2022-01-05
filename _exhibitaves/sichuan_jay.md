@@ -7,7 +7,7 @@ date: 1 January 1912
 tags: aves, bird, jay, passeriformes, corvidae
 layout: aves
 ---
-##Description
+## Description
 
 The Sichuan jay is a species of bird in the family Corvidae, which is endemic to China. The body feathers are black and grayish brown, and there is no bright colour throughout the body. The tail is very short; the beak is blunt and short; and its wings, waist and tail are less brown [1].
 
@@ -15,7 +15,7 @@ It mainly feeds on insects such as locusts, scarab beetles, needleworms, mole cr
 
 The Sichuan jay inhabits subtropical or tropical moist montane forests. However, the range and suitability of suitable habitat are greatly reduced under the influence of climate change [2]. 
 
-###Reference List
+### Reference List
 [1] Zhang, Z.J. (2001) _Ornithology of China_, Jilin Science and Technology Press.
 [2] BirdLife International (2019). ‘Sichuan jay’ _IUCN Red List of Threatened Species_. [Online] https://www.iucnredlist.org/species/22705778/116813416 (Accessed: 29 December 2021).
 

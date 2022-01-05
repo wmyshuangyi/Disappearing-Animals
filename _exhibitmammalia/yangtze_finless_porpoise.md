@@ -12,6 +12,9 @@ layout: mammalia
 
 Yangtze finless porpoise (Neophocaena asiaeorientalis) is small in size, with a blunt head and a slight frontal bulge. The snout is short and wide, and the upper and lower jaws are almost the same length. The whole body is gray or gray-white, and the body length is generally about 1.2 meters, and the longest can reach 1.9 meters, which looks like a dolphin. The life span is about 20 years.
 
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/MzFdPGBk8Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Yangtze finless porpoise usually lives in the waters near the freshwater boundary of Yu Xian, and can also live in the freshwater of large and small rivers. They like to move alone, sometimes in groups of three or five, with a record of 87 heads together at most. They have a lively temperament, and often run upstream and downstream in the water. Their food includes fish such as herring, mackerel, eel, perch, mackerel, whitebait, shrimp, squid and so on. Yangtze finless porpoise is distributed in the middle and lower reaches of the Yangtze River, mainly in Dongting Lake, Poyang Lake and the main stream of the Yangtze River. The threats faced by Yangtze finless porpoise mainly come from the influence of human activities.
 
 

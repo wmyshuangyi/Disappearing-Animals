@@ -12,6 +12,9 @@ layout: mammalia
 
 Owston's palm civet (scientific name: Chrotogale owstoni), with head length of 400-660mm; 350-490 mm in length; The hind foot length is 70-90 mm; The total length of skull is 102-113 mm; Weight 2.4-3.4 kg. The coat color is uniform yellow-brown, and there are 5 broad black-brown stripes on the back. There are dark brown spots on the abdomen and limbs, and two dark longitudinal stripes on the neck. The back half of the tail is black, and there are two white circular stripes at the base of the tail. Its neck, body side and limbs are lined with black dots.
 
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/GLw6AMCiw6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Owston's palm civet like to live in primary and secondary forests with dense vegetation below 500 meters above sea level, close to water sources. They mainly feed on the ground, but they also climb trees to feed, distributed in Laos, Vietnam and China.
 
 Owston's palm civet lives in many protected areas in China (Daweishan National Nature Reserve, Jinping Watershed National Nature Reserve and Huanglianshan National Nature Reserve). The population in China is estimated at 300.

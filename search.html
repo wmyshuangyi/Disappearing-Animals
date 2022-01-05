@@ -1,11 +1,10 @@
 ---
-
 layout: nav
 ---
 
 <!-- Html Elements for Search -->
 <br>
-<p>Search title, tags, year, or licence</p>
+<p>Search title, tags, year or licence</p>
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search ...">
     <ul id="results-container"></ul>
@@ -19,6 +18,7 @@ layout: nav
     SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
-      json: '/search.json'
-    })
+      json: '/searchall.json'
+  })
 </script>
+

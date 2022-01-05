@@ -1,0 +1,15 @@
+---
+---
+[
+    {% for exhibitamph in site.exhibitamphibia %}
+    {
+
+      "title"    : "{{ exhibitamph.title }}",
+      "tags"     : "{{ exhibitamph.tags }}",
+      "licence"  : "{{ exhibitamph.licence }}",
+      "year"     : "{{ exhibitamph.date | date: "%Y" }}"
+
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+]

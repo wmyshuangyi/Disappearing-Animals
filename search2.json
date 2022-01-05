@@ -1,0 +1,15 @@
+---
+---
+[
+    {% for exhibitmammal in site.exhibitmammalia %}
+    {
+
+      "title"    : "{{ exhibitmammal.title }}",
+      "tags"     : "{{ exhibitmammal.tags }}",
+      "licence"  : "{{ exhibitmammal.licence }}",
+      "year"     : "{{ exhibitmammal.date | date: "%Y" }}"
+
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+]

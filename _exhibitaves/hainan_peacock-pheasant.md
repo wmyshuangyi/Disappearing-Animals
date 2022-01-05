@@ -16,5 +16,5 @@ They live in 1,500 meters of mountains and bamboo bushes, often move alone or in
 (Due to lack of resources, the image is not of the specific animal but of the family, grey peacock-pheasant.)
 
 ### Reference List
-Liang, W. & Zhang, Z. W. (2011). Hainan Peacock Pheasant (Polyplectron katsumatae): an endangered and rare tropical forest bird, _Chinese Birds_. 2(2), pp.111-116 [Online]. Available from: https://d.wanfangdata.com.cn/periodical/zgnl201102008 (Accessed: 4 January 2022).
+[1] Liang, W. & Zhang, Z. W. (2011). Hainan Peacock Pheasant (Polyplectron katsumatae): an endangered and rare tropical forest bird, _Chinese Birds_. 2(2), pp.111-116 [Online]. Available from: https://d.wanfangdata.com.cn/periodical/zgnl201102008 (Accessed: 4 January 2022).
 

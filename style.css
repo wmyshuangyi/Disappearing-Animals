@@ -27,7 +27,7 @@ html {
     overflow: hidden;
 }
 
-.menu .button {
+.button {
     font-size: 18px; 
     border: none;
     color: white;
@@ -36,8 +36,8 @@ html {
 
 }
 
-.top-nav a:hover, .menu:hover .button {
-    background-color: #E9E7DA;
+.top-nav a:hover {
+    background-color: #CDA34F;
     color: black;
 }
 
@@ -69,7 +69,7 @@ html {
     font-weight: 700;
     font-family:serif;
     color: white;
-    padding: 30px 100px 30px 180px;
+    padding: 30px 120px 30px 150px;
 }
 
 .footer{
@@ -85,7 +85,7 @@ html {
  .welcome-text{
     text-align: center;
     font-family: serif;
-    padding: 40px;
+    padding: 20px;
     font-size: 20px;
 }
 
@@ -109,8 +109,15 @@ html {
     grid-template-columns: repeat(3, 450px);
 }
 
-.grid-cell {
+.grid_cell {
     align-self: baseline;
+}
+
+.grid_cell a{
+    color: #CDA34F;
+}
+.grid_cell p{
+    color:#373F27;
 }
 
 #animal_reptilia p {
@@ -184,6 +191,72 @@ html {
     color:#CDA34F;
 }
 
+.description {
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.video {
+    padding-left: 350px;
+}
+
+@media (max-width: 800px) {
+    .gallery {
+        width: 350px;
+    }
+    #animal_reptilia {
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(2, 350px);
+    }
+    
+    #animal_mammalia {
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(2, 350px);
+    }
+
+    
+    #animal_amphibia {
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(2, 350px);
+    }
+    
+    #animal_amphibia p{
+        text-align: center;
+    }
+    
+    #animal_os {
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(2, 350px);
+    }
+    
+    #animal_os p{
+        text-align: center;
+    }
+    
+    #animal_insecta {
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(2, 350px);
+    }
+    #animal_aves {
+        margin: 0 auto;
+        display: grid;
+        grid-gap: 50px;
+        grid-template-columns: repeat(2, 350px);
+    }
+     .img1 .img2 .img3 {
+        width: 100px;
+ }
+  }
 
 
  

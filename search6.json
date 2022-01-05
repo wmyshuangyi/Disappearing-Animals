@@ -1,0 +1,15 @@
+---
+---
+[
+    {% for exhibitinsect in site.exhibitinsecta %}
+    {
+
+      "title"    : "{{ exhibitinsect.title }}",
+      "tags"     : "{{ exhibitinsect.tags }}",
+      "licence"  : "{{ exhibitinsect.licence }}",
+      "year"     : "{{ exhibitinsect.date | date: "%Y" }}"
+
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+]
