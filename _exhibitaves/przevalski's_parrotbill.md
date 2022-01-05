@@ -7,7 +7,7 @@ date: 20 May 2015
 tags: aves, bird, parrotbill, passeriformes, sylviidae
 layout: aves
 ---
-##Description
+## Description
 
 The przevalski's parrotbill (Sinosuthora przewalskii) also known as the rusty-throated parrotbill is a small bird with a length of 15 cm, which is endemic to Gansu province and Sichuan province, China. The beak is thick and short, like that of a parrot. The head colour is gray; the forehead and eyes are black, the brow lines are dark brown, and the eyes are brown. The upper back is olive gray. The tail is olive gray [1].
 
@@ -15,7 +15,7 @@ It mainly inhabits in coniferous forest, coniferous and broad-leaved mixed fores
 
 The main threat may be the loss and fragmentation of forests. Since the late 1960s, Sichuan’s forest coverage has declined rapidly due to logging, reclamation and grazing. Most temperate forests have disappeared. The periodic flowering and death of bamboo, coupled with the fragmentation of temperate forests, may affect its population [2].
 
-###Reference List
+### Reference List
 [1] Zhang, Z.J. (2001) _Ornithology of China, Jilin Science and Technology Press.
 [2] BirdLife International (2019). ‘Sichuan jay’ _IUCN Red List of Threatened Species_. [Online]  Available from: https://www.iucnredlist.org/species/22716818/94512641 (Accessed: 29 December 2021).
 

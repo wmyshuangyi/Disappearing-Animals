@@ -18,7 +18,7 @@ html {
     padding-bottom: 25px;
     text-decoration: none;
     font-size: 18px;
-    font-family: 'Abril Fatface', serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 1px;
 }
 
@@ -44,6 +44,7 @@ html {
 .container h1{
     color: #373F27;
     padding: 10px;
+    font-family: cursive;
 }
 
 
@@ -122,6 +123,7 @@ html {
 
 #animal_reptilia p {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #animal_reptilia {
@@ -140,10 +142,12 @@ html {
 
 #animal_mammalia p{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #animal_aves p{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #animal_amphibia {
@@ -155,6 +159,7 @@ html {
 
 #animal_amphibia p{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #animal_os {
@@ -166,6 +171,7 @@ html {
 
 #animal_os p{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #animal_insecta {
@@ -177,6 +183,7 @@ html {
 
 #animal_insecta p{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .about_text {
@@ -199,6 +206,7 @@ html {
 .video {
     padding-left: 350px;
 }
+
 
 @media (max-width: 800px) {
     .gallery {
