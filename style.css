@@ -89,6 +89,17 @@ html {
     font-size: 20px;
 }
 
+.welcome-text h2{
+    color: #373F27;
+}
+
+.welcome-text a{
+    color: #CDA34F;
+}
+
+.navigation a {
+    color:white;
+}
 
 
 #animal_aves {
@@ -161,6 +172,17 @@ html {
     text-align: center;
 }
 
+.about_text {
+    color:#373F27;
+    font-size: 20px;
+    padding: 30px 80px 30px 80px;
+}
+.about_text h1 {
+    text-align: center;
+}
+.about_text a{
+    color:#CDA34F;
+}
 
 
 

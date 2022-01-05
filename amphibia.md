@@ -9,7 +9,7 @@ permalink: /amphibia/
     {% assign licence_url = site.data.licences | find: "licence", exhibitamph.licence %}
     <div class = "grid_cell">
       <a href = " "><img src="{{ exhibitamph.image-url }}" class="gallery_thumb" width="450" height="400"></a >
-      <p class = "caption"><a href = "{{ exhibitave.url | relative_url }}">{{ exhibitamph.title }}</a ></p>
+      <p class = "caption"><a href = "{{ exhibitamph.url | relative_url }}">{{ exhibitamph.title }}</a ></p>
       <p> by {{ exhibitamph.creator }}</p >
       <p><a href="{{ licence_url.url }}">{{ exhibitamph.licence }}</a ></p >
       <p>Tags: {{ exhibitamph.tags }}</p >

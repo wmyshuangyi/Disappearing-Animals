@@ -4,7 +4,7 @@ creator: あおもりくま、Aomorikuma
 licence: CC BY-SA 4.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Acipenseridae_Huso_dauricus_IMG_9995b.jpg
 date: 25 June 2017
-layout: 
+layout: osteichthyes
 tags: Acipenseridae, acipenseriformes, osteichthyes, fish
 ---
 ## Descriptions

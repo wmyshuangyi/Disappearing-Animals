@@ -4,7 +4,7 @@ creator: Raymond Ellis
 licence: CC0
 image-url: https://upload.wikimedia.org/wikipedia/commons/6/61/Pangasius_sanitwongsei_Zoologischer_Garten_Aquarium_Berlin.JPG
 date: 6 June 2013
-layout: 
+layout: osteichthyes
 tags: pangasiidae, siluriformes, osteichthyes, fish
 ---
 ## Descriptions

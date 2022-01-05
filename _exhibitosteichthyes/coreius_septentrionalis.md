@@ -4,7 +4,7 @@ creator: Karelj
 licence: Public Domain
 image-url: https://upload.wikimedia.org/wikipedia/commons/9/99/Caprinus_carpio_Prague_Vltava_1.jpg
 date: 1 March 2011
-layout: 
+layout: osteichthyes
 tags: Cyprinidae, cypriniformes, osteichthyes, fish
 ---
 ### Descriptions

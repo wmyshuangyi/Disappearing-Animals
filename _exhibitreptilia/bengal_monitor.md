@@ -4,7 +4,7 @@ creator: Shantanu Kuveskar
 licence: CC BY-SA 4.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/2/26/Bengal_monitor_%28Varanus_bengalensis%29_Photograph_by_Shantanu_Kuveskar.jpg 
 date: 31 March 2019
-layout: 
+layout: reptilia
 tags: Varanidae, squamata, reptilia, lizard
 ---
 ## Descriptions
