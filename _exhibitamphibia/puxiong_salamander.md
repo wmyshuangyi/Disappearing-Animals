@@ -1,10 +1,10 @@
 ---
-title: Puxiong salamander (*)
+title: Puxiong salamander*
 creator: Hisanori Okamiya, Hirotaka Sugawara, Masahiro Nagano, Nikolay A. Poyarkov
 licence: CC BY-SA 4.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/a/a7/Hynobius_fossigenus.png
 date: 20 June 2018
-layout: 
+layout: amphibia
 tags: Hynobiidae, caudata, amphibia, salamander
 ---
 ## Descriptions

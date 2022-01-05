@@ -4,7 +4,7 @@ creator: Antoshin Konstantin
 licence: CC BY-SA 3.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/f/f0/Phrynocephalus_mystaceus.jpg
 date: 23 October 2008
-layout: 
+layout: reptilia
 tags: Agamidae, squamata, reptilia, lizard 
 ---
 ## Descriptions

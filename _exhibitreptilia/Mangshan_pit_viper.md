@@ -4,7 +4,7 @@ creator: Junkyardsparkle
 licence: CC0
 image-url: https://upload.wikimedia.org/wikipedia/commons/c/ca/Protobothrops_mangshanensis_mang_pitviper_LA_zoo_top.jpg
 date: 24 March 2014
-layout: 
+layout: reptilia
 tags: Viperidae, squamata, reptilia, snake
 ---
 ## Descriptions

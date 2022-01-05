@@ -2,7 +2,7 @@
 title: Szechenyi's monal partridge
 creator: Henry Koh
 licence: CC BY 2.0
-image-url: https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%B7%9D%E9%9B%89%E9%B9%91#/media/File:Tetraophasis_szechenyii,_Garz%C3%AA_Tibetan_AP,_Sichuan_9S3A9052.jpg  
+image-url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Tetraophasis_szechenyii%2C_Garz%C3%AA_Tibetan_AP%2C_Sichuan_9S3A9052.jpg
 date: 8 April 2018
 tags: aves, bird, partridge, phasianidae, galliformes,
 layout: aves

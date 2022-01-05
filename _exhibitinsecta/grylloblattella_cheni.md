@@ -4,7 +4,7 @@ creator: www.opencage.info
 licence: CC BY-SA 2.5
 image-url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Galloisiana_nipponensis_2.jpg
 date: 21 August 2009
-layout: 
+layout: insecta
 tags: Grylloblattidae, grylloblattodae, insecta, insect
 ---
 ## Descriptions

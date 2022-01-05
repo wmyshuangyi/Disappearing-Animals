@@ -2,9 +2,9 @@
 title: Loggerhead sea turtle
 creator: ukanda
 licence: CC BY 2.0
-image-url: https://upload.wikimedia.org/wikipedia/commons/f/f0/Phrynocephalus_mystaceus.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/8/8e/Loggerhead_sea_turtle.jpg
 date: 10 August 2006
-layout: 
+layout: reptilia
 tags: Cheloniidae, testudines, reptilia, turtle
 ---
 ## Descriptions

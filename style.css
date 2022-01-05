@@ -4,48 +4,41 @@ html {
 .top-nav {
     background-color: #373F27;
     overflow: hidden;
+    width: 100%;
 }
+
 .top-nav a {
     float: left;
     display: block;
     color: ghostwhite;
     text-align: center;
-    padding: 17px 23px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     text-decoration: none;
     font-size: 18px;
     font-family: 'Abril Fatface', serif;
     letter-spacing: 1px;
 }
 
-
-.top-nav-float {
-    float: right;
-}
-.top-nav .icon {
-    display: none;
-}
-.cus-dropdown-menu {
+.menu {
     float: left;
     overflow: hidden;
 }
-.cus-dropdown-menu .drop-button {
+
+.menu .button {
     font-size: 18px; 
     border: none;
-    outline: none;
     color: white;
-    padding: 17px 22px;
     background-color: inherit;
     font-family: 'Abril Fatface', serif;
-    letter-spacing: 1px;
+
 }
 
-.top-nav a:hover, .cus-dropdown-menu:hover .drop-button {
-    background-color: slategrey;
-    color: white;
-}
-
-.cus-dropdown-menu:hover {
-    display: block;
+.top-nav a:hover, .menu:hover .button {
+    background-color: #E9E7DA;
+    color: black;
 }
 
 .container h1{
@@ -58,7 +51,7 @@ html {
     margin-top: 100px;
     background-color: #636B46;
     width: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     
 
 }
@@ -79,19 +72,93 @@ html {
     padding: 30px 100px 30px 180px;
 }
 
-
-.aves{
-    align-self: baseline;
+.footer{
+    border-top: solid #373F27 5px; 
+    padding-left: 30px;
+    font-size: 20px;
+    font-family: serif;
+ }
+ .footer2{
+     font-size: 40px;
+     width: 200px;
+ }
+ .welcome-text{
+    text-align: center;
+    font-family: serif;
+    padding: 40px;
+    font-size: 20px;
 }
 
-#animal_collection {
+
+
+#animal_aves {
     margin: 0 auto;
     display: grid;
     grid-gap: 50px;
-    grid-template-columns: repeat(4, 300px);
+    grid-template-columns: repeat(3, 450px);
 }
+
 .grid-cell {
     align-self: baseline;
+}
+
+#animal_reptilia p {
+    text-align: center;
+}
+
+#animal_reptilia {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(3, 440px);
+}
+
+#animal_mammalia {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(3, 435px);
+}
+
+#animal_mammalia p{
+    text-align: center;
+}
+
+#animal_aves p{
+    text-align: center;
+}
+
+#animal_amphibia {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(3, 430px);
+}
+
+#animal_amphibia p{
+    text-align: center;
+}
+
+#animal_os {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(3, 435px);
+}
+
+#animal_os p{
+    text-align: center;
+}
+
+#animal_insecta {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 50px;
+    grid-template-columns: repeat(3, 435px);
+}
+
+#animal_insecta p{
+    text-align: center;
 }
 
 

@@ -2,7 +2,7 @@
 title: Golden takin
 creator: J. Patrick Fischer
 licence: CC BY-SA 3.0
-image-url: https://zh.wikipedia.org/wiki/%E7%A7%A6%E5%B2%AD%E7%BE%9A%E7%89%9B#/media/File:Takin_1427.JPG 
+image-url: https://upload.wikimedia.org/wikipedia/commons/3/36/Takin_1427.JPG
 date: 30 December 2011
 tags: mammalia, artiodactyla, bovidae, takin
 layout: mammalia

@@ -57,8 +57,7 @@
                 <div class="menu">
                    <button class="button"> <a href=" ">SEARCH</a ></button></div>
                     
-        
-          
+    
             </nav>
             </div>
 
@@ -66,7 +65,7 @@
     
     <div id = "content">
     {% assign licence = site.data.licences | find: "licence", page.licence %}
-        <img src = "{{ page.image-url }}" id = "exhibit_mammal" width="100%">
+        <img src = "{{ page.image-url }}" id = "exhibit_amphibia" width="100%">
         <p>{{ page.title }} by {{ page.creator }}</p >
         <p>{{ page.date | date: "%d %B %Y"}}</p >
         <p><a href="{{ licence.url }}">{{ page.licence }}</a ></p >

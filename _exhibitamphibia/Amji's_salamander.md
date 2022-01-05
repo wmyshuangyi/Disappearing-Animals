@@ -1,10 +1,10 @@
 ---
-title: Amji's salamander (*)
+title: Amji's salamander*
 creator: Brian Gratwicke
 licence: CC BY 2.0
 image-url: https://upload.wikimedia.org/wikipedia/commons/0/08/Northern_Two-lined_Salamander_Eurycea_bislineata.jpg
 date: 18 June 2009
-layout: 
+layout: amphibia
 tags: Hynobiidae, caudata, amphibia, salamander 
 ---
 ## Descriptions
