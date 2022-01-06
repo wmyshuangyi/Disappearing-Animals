@@ -11,7 +11,7 @@ layout: nav
 </div>
 
 <div class="welcome-text">
- <h2>「Welcome to explore the threaten animals in China.」</h2>
+ <h2>「Welcome to explore Threatened Wild Animals in China.」</h2>
  <h2>Please <a href="{{ site.baseurl }}/about">&nbsp;click here </a>to learn more about our website.</h2>
 
 
