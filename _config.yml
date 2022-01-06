@@ -28,6 +28,7 @@ url: "https://threatened-wild-animals-in-china.netlify.app" # the base hostname 
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 collections:
    exhibitaves:
     output: true
