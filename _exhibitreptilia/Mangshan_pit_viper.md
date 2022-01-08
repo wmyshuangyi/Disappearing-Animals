@@ -18,5 +18,7 @@ Conservation status: This species is listed as "Endangered" by the IUCN[3]and it
 
 ### Reference List
 [1]Lan Hai, & Chen Yuancong. (2008). _The treatment of venomous snakes and snake injuries in China [中国毒蛇与蛇伤救治]_. Shanghai Science and Technology Press.
+
 [2]Zhao Ermi. (1998). _Zoology of China, Reptilia, Vol. 3, Scalariformes, Suborder Serpentes [中国动物志 爬行纲 第三卷 有鳞目 蛇亚目]_. Science Press.
+
 [3]Zhou, Z. (2012). _IUCN Red List of Threatened Species_. 2012: e.T192140A2046130. Accessed 4 January 2022. Accessed from https://www.iucnredlist.org/species/192140/2046130.
