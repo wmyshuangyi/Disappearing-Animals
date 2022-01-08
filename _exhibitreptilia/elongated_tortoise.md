@@ -20,7 +20,9 @@ The elongated tortoise is a critically endangered species and is in severe decli
 
 ### Reference List
 [1] Zhang Mengwen. (1998). _Zoology of China, Reptilia, Vol. 1: General Introduction, Tortoises and Turtles, Crocodyliformes [中国动物志 爬行纲 第一卷 总论 龟鳖目 鳄形目]_. Science Press. pp. 208
+
 [2] Zhao Z., Huang Y. (2016). _Guangxi atlas of turtles and tortoises [广西龟鳖图谱]_, Guangxi People's Publishing House. pp. 39-40
+
 [3] Rahman, S.C.; Platt, K.; Das, I.; Choudhury, B.C.; Ahmed, M.F.; Cota, M.; McCormack, T.; Timmins, R.J.; Singh, S. (2019). _"Indotestudo elongata". IUCN Red List of Threatened Species._ 2019: e.T10824A152051190. Accessed January 4, 2022. Accessed from https://www.iucnredlist.org/species/10824/152051190
 
 
