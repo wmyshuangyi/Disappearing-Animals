@@ -17,6 +17,7 @@ The Sichuan jay inhabits subtropical or tropical moist montane forests. Howev
 
 ### Reference List
 [1] Zhang, Z.J. (2001) _Ornithology of China_, Jilin Science and Technology Press.
+
 [2] BirdLife International (2019). ‘Sichuan jay’ _IUCN Red List of Threatened Species_. [Online] https://www.iucnredlist.org/species/22705778/116813416 (Accessed: 29 December 2021).
 
 
