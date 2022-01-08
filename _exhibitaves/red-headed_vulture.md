@@ -20,5 +20,6 @@ Historical reports indicate that this species was once widely distributed and ab
 
 ### Reference List
 [1] Zhang, Z.J. (2001) _Ornithology of China_, Jilin Science and Technology Press.
+
 [2] BirdLife International (2019). ‘Red-headed Vulture’ _IUCN Red List of Threatened Species_. [Online] Available from: https://www.iucnredlist.org/species/22695254/205031246 (Accessed: 29 December 2021).
 
