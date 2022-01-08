@@ -20,5 +20,6 @@ Conservation Status: The main threat to the species is habitat destruction, with
 
 ### Reference List
 [1]Farmer, K. and Wright, E.2012. "Varanus bengalensis" (On-line), Animal Diversity Web. Accessed January 04, 2022, from https://animaldiversity.org/accounts/Varanus_bengalensis/
+
 [2]Cota, M.; Stuart, B.L.; Grismer, L.; Quah, E.; Panitvong, N.; Neang, T.; Nguyen, N.S.; Wogan, G.; Lwin, K.; Srinivasulu, C.; Srinivasulu, B.; Vijayakumar, S.P.; Ramesh, M.; Ganesan, S.R.; Madala, M.; Sreekar, R.; Rao, D.-Q.; Thakur, S.; Mohapatra, P.; Vyas, R. (2021). _"Varanus bengalensis". IUCN Red List of Threatened Species_. 2021: e.T164579A1058949. Accessed January 4, 2022. Accessed from https://www.iucnredlist.org/species/164579/1058949
 
