@@ -20,5 +20,7 @@ Predatory indiscriminate fishing and indiscriminate digging for turtle eggs are 
 
 ### Reference List
 [1]Zhang Mengwen. (1998). _Zoology of China, Reptilia, Vol. 1: General Introduction, Tortoises and Turtles, Crocodyliformes [中国动物志 爬行纲 第一卷 总论 龟鳖目 鳄形目]_. Science Press. 
+
 [2]Duermit, L. 2007. "Caretta caretta" (On-line), Animal Diversity Web. Accessed January 04, 2022. Accessed from https://animaldiversity.org/accounts/Caretta_caretta/ 
+
 [3]Hochscheid, S.; Bentivegna, F.; Hays, G.C. (2005). "First records of dive durations for a hibernating sea turtle". _Biology Letters_. 1 (1): 82–6. Accessed January 4, 2022. Accessed from doi:10.1098/rsbl.2004.0250 
