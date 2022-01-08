@@ -19,7 +19,9 @@ The white-bellied heron is classified as endangered bird due to its narrow dist
 
 ### Reference List
 [1] Zhang, Z.J. (2001) _Ornithology of China_, Jilin Science and Technology Press.
-[2] Mondal, H.S. & Maheswaran, G. (2014) ‘First nesting record of White-bellied Heron Ardea insignis in Namdapha Tiger Reserve, Arunachal Pradesh, India.’ _BirdingAsia_, 21, pp. 13–17 
+
+[2] Mondal, H.S. & Maheswaran, G. (2014) ‘First nesting record of White-bellied Heron Ardea insignis in Namdapha Tiger Reserve, Arunachal Pradesh, India.’ _BirdingAsia_, 21, pp. 13–17
+
 [3]Luo, J. C. (2020) 脊椎动物·白腹鹭：被列入“地球上最稀有的50种鸟”[Vertebrates • White-bellied Heron: Listed as one of the "50 rarest birds on Earth"] [Online] Available from: https://article.xuexi.cn/articles/index.html?art_id=12895984629604289999&item_id=12895984629604289999&study_style_id=feeds_default&pid=&ptype=-1&source=share&share_to=copylink (Accessed: 29 December 2021).
 
 
