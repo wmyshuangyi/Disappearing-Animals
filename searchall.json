@@ -1,390 +1,435 @@
 [
-    
-    {
 
-      "title"    : "Rufous-headed robin",
-      "tags"     : "aves,bird,robin,passeriformes,muscicapidae",
-      "licence"  : "Public Domain",
-      "year"     : "1906"
+  {
 
-    },
-  
-    {
+    "title"    : "Rufous-headed robin",
+    "url"      : "/exhibitaves/rufous-headed_robin.html",
+    "tags"     : "aves,bird,robin,passeriformes,muscicapidae",
+    "licence"  : "Public Domain",
+    "year"     : "1906"
 
-      "title"    : "Sichuan jay",
-      "tags"     : "aves,bird,jay,passeriformes,corvidae",
-      "licence"  : "Public Domain",
-      "year"     : "1912"
+  },
 
-    },
-  
-    {
+  {
 
-      "title"    : "Saunders's gull",
-      "tags"     : "aves,bird,gull,charadriiformes,laridae",
-      "licence"  : "CC BY 4.0",
-      "year"     : "2005"
+    "title"    : "Sichuan jay",
+    "url"      : "/exhibitaves/sichuan_jay.html",
+    "tags"     : "aves,bird,jay,passeriformes,corvidae",
+    "licence"  : "Public Domain",
+    "year"     : "1912"
 
-    },
-  
-    {
+  },
 
-      "title"    : "Oriental stork",
-      "tags"     : "aves,bird,stork,ciconiiformes,ciconiidae",
-      "licence"  : "CC BY 2.1 jp",
-      "year"     : "2006"
+  {
 
-    },
-  
-    {
+    "title"    : "Saunders's gull",
+    "url"      : "/exhibitaves/saunders's_gull.html",
+    "tags"     : "aves,bird,gull,charadriiformes,laridae",
+    "licence"  : "CC BY 4.0",
+    "year"     : "2005"
 
-      "title"    : "Black-footed albatross",
-      "tags"     : "aves,bird,albatross,procellariiformes,diomedeidae",
-      "licence"  : "CC BY-SA 3.0",
-      "year"     : "2007"
+  },
 
-    },
-  
-    {
+  {
 
-      "title"    : "Hainan peacock-pheasant*",
-      "tags"     : "aves,pheasant,phasianidae,galliformes",
-      "licence"  : "CC BY 2.0",
-      "year"     : "2010"
+    "title"    : "Oriental stork",
+    "url"      : "/exhibitaves/oriental_stork.html",
+    "tags"     : "aves,bird,stork,ciconiiformes,ciconiidae",
+    "licence"  : "CC BY 2.1 jp",
+    "year"     : "2006"
 
-    },
-  
-    {
+  },
 
-      "title"    : "White-bellied heron",
-      "tags"     : "aves,bird,heron,pelecaniformes,ardeidae",
-      "licence"  : "CC BY-SA 3.0",
-      "year"     : "2010"
+  {
 
-    },
-  
-    {
+    "title"    : "Black-footed albatross",
+    "url"      : "/exhibitaves/black-footed_albatross.html",
+    "tags"     : "aves,bird,albatross,procellariiformes,diomedeidae",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2007"
 
-      "title"    : "Baer's pochard",
-      "tags"     : "aves,bird,duck,anseriformes,anatidae",
-      "licence"  : "CC BY-SA 3.0",
-      "year"     : "2011"
+  },
 
-    },
-  
-    {
+  {
 
-      "title"    : "Spoon-billed sandpiper",
-      "tags"     : "aves,bird,sandpiper,charadriiformes,scolopacidae",
-      "licence"  : "CC BY-SA 3.0",
-      "year"     : "2013"
+    "title"    : "Hainan peacock-pheasant*",
+    "url"      : "/exhibitaves/hainan_peacock-pheasant.html",
+    "tags"     : "aves,pheasant,phasianidae,galliformes",
+    "licence"  : "CC BY 2.0",
+    "year"     : "2010"
 
-    },
-  
-    {
+  },
 
-      "title"    : "Red-headed vulture",
-      "tags"     : "aves,bird,vulture,accipitriformes,accipitridae",
-      "licence"  : "CC BY-SA 3.0",
-      "year"     : "2013"
+  {
 
-    },
-  
-    {
+    "title"    : "White-bellied heron",
+    "url"      : "/exhibitaves/white-bellied_heron.html",
+    "tags"     : "aves,bird,heron,pelecaniformes,ardeidae",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2010"
 
-      "title"    : "Jankowski's bunting",
-      "tags"     : "aves,bird,bunting,passeriformes,emberizidae",
-      "licence"  : "Public Domain",
-      "year"     : "2014"
+  },
 
-    },
-  
-    {
+  {
 
-      "title"    : "Greater spotted eagle",
-      "tags"     : "aves,bird,eagle,accipitriformes,accipitridae",
-      "licence"  : "CC BY 2.0",
-      "year"     : "2014"
+    "title"    : "Baer's pochard",
+    "url"      : "/exhibitaves/baer's_pochard.html",
+    "tags"     : "aves,bird,duck,anseriformes,anatidae",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2011"
 
-    },
-  
-    {
+  },
 
-      "title"    : "Przevalski's parrotbill",
-      "tags"     : "aves,bird,parrotbill,passeriformes,sylviidae",
-      "licence"  : "Public Domain",
-      "year"     : "2015"
+  {
 
-    },
-  
-    {
+    "title"    : "Spoon-billed sandpiper",
+    "url"      : "/exhibitaves/spoon-billed_sandpiper.html",
+    "tags"     : "aves,bird,sandpiper,charadriiformes,scolopacidae",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2013"
 
-      "title"    : "Blue-crowned laughingthrush",
-      "tags"     : "aves,bird,laughingthrush,passeriformes,leiothrichidae",
-      "licence"  : "CC BY-SA 4.0",
-      "year"     : "2017"
+  },
 
-    },
-  
-    {
+  {
 
-      "title"    : "Yellow-breasted bunting",
-      "tags"     : "aves,bird,bunting,passeriformes,emberizidae",
-      "licence"  : "CC BY-SA 4.0",
-      "year"     : "2018"
+    "title"    : "Red-headed vulture",
+    "url"      : "/exhibitaves/red-headed_vulture.html",
+    "tags"     : "aves,bird,vulture,accipitriformes,accipitridae",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2013"
 
-    },
-  
-    {
+  },
 
-      "title"    : "Szechenyi's monal partridge",
-      "tags"     : "aves,bird,partridge,phasianidae,galliformes,",
-      "licence"  : "CC BY 2.0",
-      "year"     : "2018"
+  {
 
-    },
-  
-    {
+    "title"    : "Jankowski's bunting",
+    "url"      : "/exhibitaves/jankowski's%20bunting.html",
+    "tags"     : "aves,bird,bunting,passeriformes,emberizidae",
+    "licence"  : "Public Domain",
+    "year"     : "2014"
 
-      "title"    : "Golden-fronted fulvetta",
-      "tags"     : "aves,bird,fulvetta,passeriformes,paradoxornithidae",
-      "licence"  : "CC BY-SA 4.0",
-      "year"     : "2021"
+  },
 
-    },
+  {
 
-    {
+    "title"    : "Greater spotted eagle",
+    "url"      : "/exhibitaves/greater_spotted_eagle.html",
+    "tags"     : "aves,bird,eagle,accipitriformes,accipitridae",
+    "licence"  : "CC BY 2.0",
+    "year"     : "2014"
 
-        "title"    : "Banteng",
-        "tags"     : "mammalia,artiodactyla,bovidae,bos",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2006"
-  
-      },
-    
-      {
-  
-        "title"    : "Yarkand deer",
-        "tags"     : "mammalia,artiodactyla,cervidae,deer",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2007"
-  
-      },
-    
-      {
-  
-        "title"    : "Large-spotted civet",
-        "tags"     : "mammalia,carnivora,viverridae,cat,civet",
-        "licence"  : "Public Domain",
-        "year"     : "2007"
-  
-      },
-    
-      {
-  
-        "title"    : "Owston's palm civet",
-        "tags"     : "mammalia,carnivora,viverridae,cat,civet",
-        "licence"  : "CC BY-SA 4.0",
-        "year"     : "2008"
-  
-      },
-    
-      {
-  
-        "title"    : "spotted seal",
-        "tags"     : "mammalia,carnivora,phocidae,seal",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2009"
-  
-      },
-    
-      {
-  
-        "title"    : "Tibetan argali",
-        "tags"     : "mammalia,artiodactyla,bovidae,argali",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2010"
-  
-      },
-    
-      {
-  
-        "title"    : "Yangtze finless porpoise",
-        "tags"     : "mammalia,cetacea,phocoenidae,porpoise",
-        "licence"  : "CC BY-SA 4.0",
-        "year"     : "2010"
-  
-      },
-    
-      {
-  
-        "title"    : "Pygmy slow loris",
-        "tags"     : "mammalia,primates,lorisidae,monkey,loris",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2010"
-  
-      },
-    
-      {
-  
-        "title"    : "Golden takin",
-        "tags"     : "mammalia,artiodactyla,bovidae,takin",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2011"
-  
-      },
-    
-      {
-  
-        "title"    : "Small-toothed palm civet",
-        "tags"     : "mammalia,carnivora,viverridae,civet",
-        "licence"  : "CC BY-SA 2.0",
-        "year"     : "2012"
-  
-      },
-    
-      {
-  
-        "title"    : "Himalayan serow",
-        "tags"     : "mammalia,artiodactyla,bovidae,serow",
-        "licence"  : "CC BY-SA 4.0",
-        "year"     : "2016"
-  
-      },
-    
-      {
-  
-        "title"    : "Ganges river dolphin",
-        "tags"     : "mammalia,cetacea,platanistidae,dolphin",
-        "licence"  : "Public Domain",
-        "year"     : "2018"
-  
-      },
+  },
 
-      {
+  {
 
-        "title"    : "Amji's salamander*",
-        "tags"     : "Hynobiidae,caudata,amphibia,salamander",
-        "licence"  : "CC BY 2.0",
-        "year"     : "2009"
-  
-      },
-    
-      {
-  
-        "title"    : "Onychodactylus zhaoermii*",
-        "tags"     : "Hynobiidae,caudata,amphibia,salamander",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2012"
-  
-      },
-    
-      {
-  
-        "title"    : "Puxiong salamander*",
-        "tags"     : "Hynobiidae,caudata,amphibia,salamander",
-        "licence"  : "CC BY-SA 4.0",
-        "year"     : "2018"
-  
-      },
+    "title"    : "Przevalski's parrotbill",
+    "url"      : "/exhibitaves/przevalski's_parrotbill.html",
+    "tags"     : "aves,bird,parrotbill,passeriformes,sylviidae",
+    "licence"  : "Public Domain",
+    "year"     : "2015"
 
-      {
+  },
 
-        "title"    : "Loggerhead sea turtle",
-        "tags"     : "Cheloniidae,testudines,reptilia,turtle",
-        "licence"  : "CC BY 2.0",
-        "year"     : "2006"
-  
-      },
-    
-      {
-  
-        "title"    : "Phrynocephalus mystaceus",
-        "tags"     : "Agamidae,squamata,reptilia,lizard",
-        "licence"  : "CC BY-SA 3.0",
-        "year"     : "2008"
-  
-      },
-    
-      {
-  
-        "title"    : "Elongated tortoise",
-        "tags"     : "Testudinidae,testudines,reptilia,turtle",
-        "licence"  : "CC BY 3.0",
-        "year"     : "2009"
-  
-      },
-    
-      {
-  
-        "title"    : "Mangshan pit viper",
-        "tags"     : "Viperidae,squamata,reptilia,snake",
-        "licence"  : "CC0",
-        "year"     : "2014"
-  
-      },
-    
-      {
-  
-        "title"    : "Bengal monitor",
-        "tags"     : "Varanidae,squamata,reptilia,lizard",
-        "licence"  : "CC BY-SA 4.0",
-        "year"     : "2019"
-  
-      },
-    
-      {
-  
-        "title"    : "Thermophis baileyi (*)",
-        "tags"     : "colubridae,squamata,reptilia,snake",
-        "licence"  : "CC BY-SA 4.0",
-        "year"     : "2021"
-  
-      },
-      {
+  {
 
-        "title"    : "Tenualosa reevesii (*)",
-        "tags"     : "Clupeidae,cypriniformes,osteichthyes,fish",
-        "licence"  : "Public Domain",
-        "year"     : "1889"
-  
-      },
-    
-      {
-  
-        "title"    : "Coreius septentrionalis (*)",
-        "tags"     : "Cyprinidae,cypriniformes,osteichthyes,fish",
-        "licence"  : "Public Domain",
-        "year"     : "2011"
-  
-      },
-    
-      {
-  
-        "title"    : "Giant pangasius",
-        "tags"     : "pangasiidae,siluriformes,osteichthyes,fish",
-        "licence"  : "CC0",
-        "year"     : "2013"
-  
-      },
-    
-      {
-  
-        "title"    : "Kaluga",
-        "tags"     : "Acipenseridae,acipenseriformes,osteichthyes,fish",
-        "licence"  : "CC BY-SA 4.0",
-        "year"     : "2017"
-  
-      },
-      {
+    "title"    : "Blue-crowned laughingthrush",
+    "url"      : "/exhibitaves/blue-crowned_laughingthrush.html",
+    "tags"     : "aves,bird,laughingthrush,passeriformes,leiothrichidae",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2017"
 
-        "title"    : "Grylloblattella cheni (*)",
-        "tags"     : "Grylloblattidae,grylloblattodae,insecta,insect",
-        "licence"  : "CC BY-SA 2.5",
-        "year"     : "2009"
-  
-      }
-    
+  },
+
+  {
+
+    "title"    : "Yellow-breasted bunting",
+    "url"      : "/exhibitaves/yellow-breasted%20bunting.html",
+    "tags"     : "aves,bird,bunting,passeriformes,emberizidae",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2018"
+
+  },
+
+  {
+
+    "title"    : "Szechenyi's monal partridge",
+    "url"      : "/exhibitaves/szechenyi's_monal_partridge.html",
+    "tags"     : "aves,bird,partridge,phasianidae,galliformes,",
+    "licence"  : "CC BY 2.0",
+    "year"     : "2018"
+
+  },
+
+  {
+
+    "title"    : "Golden-fronted fulvetta",
+    "url"      : "/exhibitaves/golden-fronted_fulvetta.html",
+    "tags"     : "aves,bird,fulvetta,passeriformes,paradoxornithidae",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2021"
+
+  },
+ 
+  {
+
+    "title"    : "Banteng",
+    "url"      : "/exhibitmammalia/banteng.html",
+    "tags"     : "mammalia,artiodactyla,bovidae,bos",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2006"
+
+  },
+
+  {
+
+    "title"    : "Yarkand deer*",
+    "url"      : "/exhibitmammalia/yarkand_deer.html",
+    "tags"     : "mammalia,artiodactyla,cervidae,deer",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2007"
+
+  },
+
+  {
+
+    "title"    : "Large-spotted civet",
+    "url"      : "/exhibitmammalia/large-spotted_civet.html",
+    "tags"     : "mammalia,carnivora,viverridae,cat,civet",
+    "licence"  : "Public Domain",
+    "year"     : "2007"
+
+  },
+
+  {
+
+    "title"    : "Owston's palm civet",
+    "url"      : "/exhibitmammalia/owston%60s_palm_civet.html",
+    "tags"     : "mammalia,carnivora,viverridae,cat,civet",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2008"
+
+  },
+
+  {
+
+    "title"    : "spotted seal",
+    "url"      : "/exhibitmammalia/spotted_seal.html",
+    "tags"     : "mammalia,carnivora,phocidae,seal",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2009"
+
+  },
+
+  {
+
+    "title"    : "Tibetan argali*",
+    "url"      : "/exhibitmammalia/tibetan_argali.html",
+    "tags"     : "mammalia,artiodactyla,bovidae,argali",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2010"
+
+  },
+
+  {
+
+    "title"    : "Yangtze finless porpoise",
+    "url"      : "/exhibitmammalia/yangtze_finless_porpoise.html",
+    "tags"     : "mammalia,cetacea,phocoenidae,porpoise",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2010"
+
+  },
+
+  {
+
+    "title"    : "Pygmy slow loris",
+    "url"      : "/exhibitmammalia/pygmy_slow_loris.html",
+    "tags"     : "mammalia,primates,lorisidae,monkey,loris",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2010"
+
+  },
+
+  {
+
+    "title"    : "Golden takin",
+    "url"      : "/exhibitmammalia/golden_takin.html",
+    "tags"     : "mammalia,artiodactyla,bovidae,takin",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2011"
+
+  },
+
+  {
+
+    "title"    : "Small-toothed palm civet",
+    "url"      : "/exhibitmammalia/small-toothed_palm_civet.html",
+    "tags"     : "mammalia,carnivora,viverridae,civet",
+    "licence"  : "CC BY-SA 2.0",
+    "year"     : "2012"
+
+  },
+
+  {
+
+    "title"    : "Himalayan serow",
+    "url"      : "/exhibitmammalia/himalayan_serow.html",
+    "tags"     : "mammalia,artiodactyla,bovidae,serow",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2016"
+
+  },
+
+  {
+
+    "title"    : "Ganges river dolphin",
+    "url"      : "/exhibitmammalia/ganges_river_dolphin.html",
+    "tags"     : "mammalia,cetacea,platanistidae,dolphin",
+    "licence"  : "Public Domain",
+    "year"     : "2018"
+
+  },
+
+  {
+
+    "title"    : "Amji's salamander*",
+    "url"      : "/exhibitamphibia/Amji's_salamander.html",
+    "tags"     : "Hynobiidae,caudata,amphibia,salamander",
+    "licence"  : "CC BY 2.0",
+    "year"     : "2009"
+
+  },
+
+  {
+
+    "title"    : "Onychodactylus zhaoermii*",
+    "url"      : "/exhibitamphibia/onychodactylus_zhaoermii.html",
+    "tags"     : "Hynobiidae,caudata,amphibia,salamander",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2012"
+
+  },
+
+  {
+
+    "title"    : "Puxiong salamander*",
+    "url"      : "/exhibitamphibia/puxiong_salamander.html",
+    "tags"     : "Hynobiidae,caudata,amphibia,salamander",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2018"
+
+  },
+
+  {
+
+    "title"    : "Loggerhead sea turtle",
+    "url"      : "/exhibitreptilia/loggerhead_sea_turtle.html",
+    "tags"     : "Cheloniidae,testudines,reptilia,turtle",
+    "licence"  : "CC BY 2.0",
+    "year"     : "2006"
+
+  },
+
+  {
+
+    "title"    : "Phrynocephalus mystaceus",
+    "url"      : "/exhibitreptilia/phrynocephalus_mystaceus.html",
+    "tags"     : "Agamidae,squamata,reptilia,lizard",
+    "licence"  : "CC BY-SA 3.0",
+    "year"     : "2008"
+
+  },
+
+  {
+
+    "title"    : "Elongated tortoise",
+    "url"      : "/exhibitreptilia/elongated_tortoise.html",
+    "tags"     : "Testudinidae,testudines,reptilia,turtle",
+    "licence"  : "CC BY 3.0",
+    "year"     : "2009"
+
+  },
+
+  {
+
+    "title"    : "Mangshan pit viper",
+    "url"      : "/exhibitreptilia/Mangshan_pit_viper.html",
+    "tags"     : "Viperidae,squamata,reptilia,snake",
+    "licence"  : "CC0",
+    "year"     : "2014"
+
+  },
+
+  {
+
+    "title"    : "Bengal monitor",
+    "url"      : "/exhibitreptilia/bengal_monitor.html",
+    "tags"     : "Varanidae,squamata,reptilia,lizard",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2019"
+
+  },
+
+  {
+
+    "title"    : "Thermophis baileyi (*)",
+    "url"      : "/exhibitreptilia/thermophis_baileyi.html",
+    "tags"     : "colubridae,squamata,reptilia,snake",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2021"
+
+  },
+
+  {
+
+    "title"    : "Tenualosa reevesii (*)",
+    "url"      : "/exhibitosteichthyes/tenualosa_reevesii.html",
+    "tags"     : "Clupeidae,cypriniformes,osteichthyes,fish",
+    "licence"  : "Public Domain",
+    "year"     : "1889"
+
+  },
+
+  {
+
+    "title"    : "Coreius septentrionalis (*)",
+    "url"      : "/exhibitosteichthyes/coreius_septentrionalis.html",
+    "tags"     : "Cyprinidae,cypriniformes,osteichthyes,fish",
+    "licence"  : "Public Domain",
+    "year"     : "2011"
+
+  },
+
+  {
+
+    "title"    : "Giant pangasius",
+    "url"      : "/exhibitosteichthyes/%20giant%20pangasius.html",
+    "tags"     : "pangasiidae,siluriformes,osteichthyes,fish",
+    "licence"  : "CC0",
+    "year"     : "2013"
+
+  },
+
+  {
+
+    "title"    : "Kaluga",
+    "url"      : "/exhibitosteichthyes/kaluga.html",
+    "tags"     : "Acipenseridae,acipenseriformes,osteichthyes,fish",
+    "licence"  : "CC BY-SA 4.0",
+    "year"     : "2017"
+
+  },
+
+  {
+
+    "title"    : "Grylloblattella cheni (*)",
+    "url"      : "/exhibitinsecta/grylloblattella_cheni.html",
+    "tags"     : "Grylloblattidae,grylloblattodae,insecta,insect",
+    "licence"  : "CC BY-SA 2.5",
+    "year"     : "2009"
+
+  }
+
   
   ]
   

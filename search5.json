@@ -5,6 +5,7 @@
     {
 
       "title"    : "{{ exhibitos.title }}",
+      "url"      : "{{ site.baseurl }}{{ exhibitos.url }}",
       "tags"     : "{{ exhibitos.tags }}",
       "licence"  : "{{ exhibitos.licence }}",
       "year"     : "{{ exhibitos.date | date: "%Y" }}"

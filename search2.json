@@ -5,6 +5,7 @@
     {
 
       "title"    : "{{ exhibitmammal.title }}",
+      "url"      : "{{ site.baseurl }}{{ exhibitmammal.url }}",
       "tags"     : "{{ exhibitmammal.tags }}",
       "licence"  : "{{ exhibitmammal.licence }}",
       "year"     : "{{ exhibitmammal.date | date: "%Y" }}"

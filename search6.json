@@ -5,6 +5,7 @@
     {
 
       "title"    : "{{ exhibitinsect.title }}",
+      "url"      : "{{ site.baseurl }}{{ exhibitinsect.url }}",
       "tags"     : "{{ exhibitinsect.tags }}",
       "licence"  : "{{ exhibitinsect.licence }}",
       "year"     : "{{ exhibitinsect.date | date: "%Y" }}"

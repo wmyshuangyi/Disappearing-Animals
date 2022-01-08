@@ -53,8 +53,8 @@ html {
     background-color: #636B46;
     width: 100%;
     margin-bottom: 50px;
-    
-
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
 }
 
 .homeimg {
@@ -118,7 +118,7 @@ html {
     margin: 0 auto;
     display: grid;
     grid-gap: 50px;
-    grid-template-columns: repeat(3, 450px);
+    grid-template-columns: 30% 30% 30%;
 }
 
 .grid_cell {
@@ -141,7 +141,7 @@ html {
     margin: 0 auto;
     display: grid;
     grid-gap: 50px;
-    grid-template-columns: repeat(3, 440px);
+    grid-template-columns: 30% 30% 30%;
 }
 
 #animal_mammalia {
@@ -165,7 +165,7 @@ html {
     margin: 0 auto;
     display: grid;
     grid-gap: 50px;
-    grid-template-columns: repeat(3, 430px);
+    grid-template-columns: 30% 30% 30%;
 }
 
 #animal_amphibia p{
@@ -177,7 +177,7 @@ html {
     margin: 0 auto;
     display: grid;
     grid-gap: 50px;
-    grid-template-columns: repeat(3, 435px);
+    grid-template-columns: 30% 30% 30%;
 }
 
 #animal_os p{
@@ -189,7 +189,7 @@ html {
     margin: 0 auto;
     display: grid;
     grid-gap: 50px;
-    grid-template-columns: repeat(3, 435px);
+    grid-template-columns: 30% 30% 30%;
 }
 
 #animal_insecta p{
@@ -227,14 +227,14 @@ html {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
-        grid-template-columns: repeat(2, 350px);
+        grid-template-columns: 45% 45%;
     }
     
     #animal_mammalia {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
-        grid-template-columns: repeat(2, 350px);
+        grid-template-columns: 45% 45%;
     }
 
     
@@ -242,7 +242,7 @@ html {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
-        grid-template-columns: repeat(2, 350px);
+        grid-template-columns: 45% 45%;
     }
     
     #animal_amphibia p{
@@ -253,7 +253,7 @@ html {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
-        grid-template-columns: repeat(2, 350px);
+        grid-template-columns: 45% 45%;
     }
     
     #animal_os p{
@@ -264,17 +264,21 @@ html {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
-        grid-template-columns: repeat(2, 350px);
+        grid-template-columns: 45% 45%;
     }
     #animal_aves {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
-        grid-template-columns: repeat(2, 350px);
+        grid-template-columns: 45% 45%;
     }
      .img1 .img2 .img3 {
         width: 100px;
- }
+    } 
+    .navigation { 
+        grid-template-columns: 45% 45%;
+    }
+
   }
 
 
