@@ -9,7 +9,7 @@ tags: Hynobiidae, caudata, amphibia, salamander
 ---
 ## Descriptions
 
-Puxiong salamander (Pseudohynobius puxiongensis), has well-developed limbs, with 4 toes on the forelimbs and 5 toes on the hindlimbs [1]; the teeth are in two short arcs, sloping slightly inwards from the inner margin of the inner nostrils and nearly converging at the midline. Its tail is slender, shorter than the head length, and the dorsal fin fold is weak. It has a piece of internasal bone between the right and left nasal bones [2]. 
+Puxiong salamander (Pseudohynobius puxiongensis), has well-developed limbs, with 4 toes on the forelimbs and 5 toes on the hindlimbs [1]; its tail is slender, shorter than the head length, and the dorsal fin fold is weak. It has a piece of internasal bone between the right and left nasal bones [2]. 
 
 The habitat of the Protohynobius puxiongensis is located in the highland mountains at an altitude of 2,770-3,000 metres [3], covered with alpine meadows, scrub and lush grasses such as rhododendron and arrowroot. It lives mainly in mountain streams, small dipping ditches and puddles and pools, as well as in rock caves, crevices and root holes in swamps and other areas where it can hide. The dense scrub and grasses around mountain streams provide a shaded environment from the direct sunlight. 
 

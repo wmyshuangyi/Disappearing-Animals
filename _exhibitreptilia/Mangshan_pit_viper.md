@@ -9,7 +9,7 @@ tags: Viperidae, squamata, reptilia, snake
 ---
 ## Descriptions
 
-Characteristics: Mangshan pit viper (Protobothrops mangshanensis), which can reach over two meters in length, is a venomous snake with tubular teeth, black-brown in color, interspersed with very small yellow-green or rust-colored dots, forming a fine reticulated impression [1]. Its dorsal scales are partly yellowish-green, clustered in clumps, forming lichen-like patches, equidistant from the black-brown, running caudally through the body. The head is triangular and slightly larger, with a cheek fossa that looks like a branding iron. It is the largest known species of a venomous snake, with the heaviest living Mangshan pit viper ever found being 8.5kg [2].
+Characteristics: Mangshan pit viper (Protobothrops mangshanensis), which can reach over two meters in length, is a venomous snake with tubular teeth, black-brown in color, interspersed with very small yellow-green or rust-colored dots, forming a fine reticulated impression [1]. It is the largest known species of a venomous snake, with the heaviest living Mangshan pit viper ever found being 8.5kg [2].
 
 Habitat: The Mangshan pit viper is found mainly in the subtropical coniferous and broad-leaved forests of the Mang Mountains in Hunan Province, China. It prefers to lurk and rest in shady areas, sometimes hiding in caves. It is carnivorous and will track its prey to find an opportunity to hunt.
 

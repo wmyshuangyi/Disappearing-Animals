@@ -9,7 +9,7 @@ tags: Agamidae, squamata, reptilia, lizard
 ---
 ## Descriptions
 
-Phrynocephalus mystaceus has a relatively large body, about 150 mm in total length. The corners of the mouth have auriculate skin folds. The dorsal surface is covered with strongly ribbed scales of uniform size. The ventral surface of the tail is white-tipped and black, but juveniles are orange-tipped and black. The main difference between the subspecies of the large-eared sand lizard and the nominate subspecies is that the body is large, and the tail is about as long as or slightly shorter than the head and body [1]. When angry, attacking or preparing to flee, it will show its flesh-red 'ears' and flap them incessantly, making a 'whirring' sound to intimidate its rivals.
+Phrynocephalus mystaceus has a relatively large body, about 150 mm in total length. The main difference between the subspecies of the Phrynocephalus mystaceus and the nominate subspecies is that its body is large, and the tail is about as long as or slightly shorter than the head and body [1]. When angry, attacking or preparing to flee, it will show its flesh-red 'ears' and flap them incessantly, making a 'whirring' sound to intimidate its rivals.
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/tVSmADu8iN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

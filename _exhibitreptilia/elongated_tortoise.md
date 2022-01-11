@@ -9,7 +9,7 @@ tags: Testudinidae, testudines, reptilia, turtle
 ---
 ## Descriptions
 
-Elongated tortoise (Indotestudo elongata) is about 1 kg as an adult and is classified as a medium-sized tortoise. The adult dorsal carapace is more than 20 cm long and can reach a maximum of about 40 cm. Its upper jaw has three serrated teeth. The eyes are large, and the neck is short. The back armor is long, with a cervical shield and a flat ridge. The rump shield is single and wrapped downwards. The ventral armor is large, with a flat and thick anterior margin and a deep posterior notch; the forelimbs are 5-clawed and the hindlimbs 4-clawed; there is no webbing between the fingers and toes. The tail is short and thick, with a claw-like horny projection at its tip. Its head is pale yellowish green to greyish white in color and its body is pale yellowish-brown with irregular black patches on each shield (individually without patches); the limbs are covered with irregular black patches [1]. 
+Elongated tortoise (Indotestudo elongata) is about 1 kg as an adult and is classified as a medium-sized tortoise. The adult dorsal carapace is more than 20 cm long and can reach a maximum of about 40 cm. Its tail is short and thick, with a claw-like horny projection at its tip. Its head is pale yellowish green to greyish white in color and its body is pale yellowish-brown with irregular black patches on each shield (individually without patches); the limbs are covered with irregular black patches [1]. 
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/vVLWBB7dPMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

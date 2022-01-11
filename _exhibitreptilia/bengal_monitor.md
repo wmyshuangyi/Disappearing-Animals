@@ -9,7 +9,7 @@ tags: Varanidae, squamata, reptilia, lizard
 ---
 ## Descriptions
 
-Characteristics: Varanus bengalensis (also called Bengal monitor) has yellow spots on its body, a triangular head and a body length of over 90 cm, with the tail alone being 50 cm long. It has reached 10.2 kg, and in the wild, males are generally more than 42% heavier than females. The nostrils are cleft-eyed and located centrally between the eyes and the muzzle. The western and eastern subspecies can be distinguished by their body colour and scale shape. Adult Bengal lizards are generally grey or grey-green with grey-black markings from the chin to the ventral tail, these markings are usually darker in the west and lighter in the east. These ventral markings usually become darker as the skin ages. In the wild, the heaviest male Bengal lizard recorded was 7.18 kg in weight [1].
+Varanus bengalensis (Bengal monitor) has yellow spots on its body, a triangular head and a body length of over 90 cm, with the tail alone being 50 cm long. The western and eastern subspecies can be distinguished by their body colour and scale shape. Adult Bengal lizards are generally grey or grey-green with grey-black markings from the chin to the ventral tail. In the wild, the heaviest male Bengal lizard recorded was 7.18 kg in weight [1].
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/kg4mYMLQnQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

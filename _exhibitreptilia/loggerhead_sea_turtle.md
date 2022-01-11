@@ -9,7 +9,7 @@ tags: Cheloniidae, testudines, reptilia, turtle
 ---
 ## Descriptions
 
-Loggerhead sea turtle (Caretta caretta) is the oldest extant reptile. The body is 100-200 cm long and weighs about 100 kg. The head is large, about 15 cm wide; both upper and lower jaws have extremely hooked rostrums. The dorsal surface of the head has symmetrical scales and the dorsal surface of the adult is unribbed. The ventral nail is flatter, with three lower marginal horn plates at each side of the nail bridge. The ventral angular plates, femoral angular plates and anal angular plates are in turn tapering. The limbs are flattened and flipper-like; the forelimbs are large and the hindlimbs are smaller, each with 2 claws on the inside, 1 more than the green turtle, suitable for swimming. The dorsum is brownish red or maroon with irregular earthy or brown markings [1].
+Loggerhead sea turtle (Caretta caretta) is the oldest extant reptile. Its body is 100-200 cm long and weighs about 100 kg. The dorsal surface of its head has symmetrical scales and the dorsal surface of the adult is unribbed. The dorsum is brownish red or maroon with irregular earthy or brown markings [1].
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/0n6pp5gPcME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

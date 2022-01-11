@@ -9,7 +9,7 @@ tags: pangasiidae, siluriformes, osteichthyes, fish
 ---
 ## Descriptions
 
-The giant pangasius (Pangasius sanitwongsei) lives in various freshwater basins in Southeast Asia, and at about 200 cm in length as an adult, it is the largest of the genus Giant Catfish. As this large catfish grows, the tips of the dorsal, pectoral, and ventral fins extend into long fluttering fins, hence it also has the name ‘long silk giant catfish’. Its body is compressed and elongated, with a depressed head. The anal fin has about 26 rays and the pectoral spine has a similar size to the dorsal spine [1].
+The giant pangasius (Pangasius sanitwongsei) lives in various freshwater basins in Southeast Asia, and it is at about 200 cm in length as an adult, which is the largest of the genus Giant Catfish. As this large catfish grows, the tips of the dorsal, pectoral, and ventral fins extend into long fluttering fins, hence it also has the name ‘long silk giant catfish’. Its body is compressed and elongated, with a depressed head. The anal fin has about 26 rays and the pectoral spine has a similar size to the dorsal spine [1].
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/dfIx_NvDqUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

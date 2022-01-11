@@ -9,7 +9,7 @@ tags: Cyprinidae, cypriniformes, osteichthyes, fish
 ---
 ### Descriptions
 
-Coreius septentrionalis has a long, stout body with a cylindrical front end and a high, slightly laterally flattened tail. It has a small, slightly flattened head and a slightly elevated dorsal surface behind the head. There is a pair of whiskers, thick and long, ending beyond the posterior margin of the anterior gill cover. It has 55-56 lateral line scales. The bases of the pectoral, ventral and caudal fins have irregularly arranged small scales, and the bases of the dorsal and anal fins have scale sheaths. Its body is light grey with a slight yellowish tinge, with cyanotic spots on the sides of the body, its belly silvery white with a slight yellowish tinge, its dorsal fins greyish black and its other fins greyish yellow [1].
+Coreius septentrionalis has a long, stout body with a flattened tail. Its body is light grey with a slight yellowish tinge, with cyanotic spots on the sides of the body. Its belly is silvery white with a slight yellowish tinge while its dorsal fins are greyish black and its other fins are greyish yellow [1].
 
 Coreius septentrionalis is a subtropical freshwater fish and it is distributed in the Huanghe River, China. It is mainly found in a section of the Yellow River of about 200 km from Jingyuan in Gansu to Zhongwei in Ningxia. It can be found in lower and middle levels of water bodies with the sluggish current in the sandy and rocky substratum. It hides beneath deep water rocks or in ponds in winter and migrates upstream in spring for breeding purposes [2].
 
