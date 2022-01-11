@@ -219,15 +219,14 @@ html {
 }
 
 
-@media (max-width: 800px) {
-    .gallery {
-        width: 350px;
-    }
+@media (max-width: 1350px) {
+
     #animal_reptilia {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
         grid-template-columns: 45% 45%;
+        text-align: center;
     }
     
     #animal_mammalia {
@@ -235,6 +234,7 @@ html {
         display: grid;
         grid-gap: 50px;
         grid-template-columns: 45% 45%;
+        text-align: center;
     }
 
     
@@ -243,20 +243,15 @@ html {
         display: grid;
         grid-gap: 50px;
         grid-template-columns: 45% 45%;
-    }
-    
-    #animal_amphibia p{
         text-align: center;
     }
+    
     
     #animal_os {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
         grid-template-columns: 45% 45%;
-    }
-    
-    #animal_os p{
         text-align: center;
     }
     
@@ -265,21 +260,31 @@ html {
         display: grid;
         grid-gap: 50px;
         grid-template-columns: 45% 45%;
+        text-align: center;
     }
     #animal_aves {
         margin: 0 auto;
         display: grid;
         grid-gap: 50px;
         grid-template-columns: 45% 45%;
+        text-align: center;
     }
-     .img1 .img2 .img3 {
-        width: 100px;
-    } 
+   
     .navigation { 
         grid-template-columns: 45% 45%;
+        text-align: center;
     }
 
   }
+
+  @media (max-width: 767px) {
+    #animal_reptilia, #animal_aves, #animal_insecta, #animal_os, #animal_amphibia, #animal_mammalia, .navigation {
+        grid-template-columns: 90%;
+        text-align: center;
+    }
+  }
+ 
+
 
 
  
